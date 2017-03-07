@@ -1,0 +1,27 @@
+html{
+    background-image: url("http://previews.123rf.com/images/ku2raza/ku2raza1302/ku2raza130200011/17696740-Race-horizontal-background-Stock-Photo.jpg");
+}
+#greeting{
+  color: floralwhite;
+  text-align: center;
+  font-size: 80px;
+  font-style: oblique;
+
+}
+#name{
+  font-size: 80px;
+  font-style: oblique;
+
+}
+#text-box{
+  margin-left: 480px;
+}
+#button{
+  margin-left: 400px;
+}
+#demo{
+  font-size: 90px;
+}
+h6{
+  font-size: 50;
+}

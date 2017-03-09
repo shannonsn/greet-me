@@ -21,7 +21,11 @@ html{
 }
 #demo{
   font-size: 90px;
+  text-transform: capitalize;
 }
 h6{
   font-size: 50;
+}
+#myText{
+  text-transform: capitalize;
 }

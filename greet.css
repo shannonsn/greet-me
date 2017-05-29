@@ -1,4 +1,6 @@
 html{
+  background-repeat: no-repeat;
+  background-size: cover;
     background-image: url("http://previews.123rf.com/images/ku2raza/ku2raza1302/ku2raza130200011/17696740-Race-horizontal-background-Stock-Photo.jpg");
 }
 #greeting{

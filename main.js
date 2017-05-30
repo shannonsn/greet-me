@@ -9,7 +9,6 @@ if (localStorage.getItem('counter') === null) {
     document.getElementById("counter").innerHTML = localStorage.getItem("counter");
 }
 
-// var counters = 0;
 var inputValue = document.getElementById("myText").value;
 //this function gets the name from the textbox
 var namesGreeted = [];
@@ -61,5 +60,5 @@ function mainFunction() {
 // reset counter
 function myResetFunction() {
     var reset = 0
-    document.getElementById('counter').innerHTML = counters = 0;
+    document.getElementById('counter').innerHTML = counter = 0;
 }

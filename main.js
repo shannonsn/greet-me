@@ -55,8 +55,9 @@ function mainFunction() {
 
     document.getElementById('counter').innerHTML = checkIfCounterShouldIncrement(name);
     document.getElementById('demo').innerHTML = lang + ", " + name;
-    document.getElementById('myText').innerHTML = " ";
+    document.getElementById('myText').value = " ";
 }
+
 // reset counter
 function myResetFunction() {
     var reset = 0
